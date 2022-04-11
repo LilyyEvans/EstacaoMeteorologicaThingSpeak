@@ -1,4 +1,6 @@
-# EstacaoMeteorologicaThingSpeak
+# Estação Meteorológica
+
+
 Projeto de IoT desenvolvido para a matéria de Fundamento da Internet das Coisas, do curso de Análise e Desenvolvimento de Sistemas da PUCPR.
 
 Estação Meteorológica construída usando uma placa ESP32-WROOM, um sensor de temperatura DHT22 e um relé 5V FL-3FF-S-Z.
